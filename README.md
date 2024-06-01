@@ -8,9 +8,9 @@ Open source like EDA playground can also be used as an alternative for Xilinx Vi
 
 Features:
 1. Design: Well-commented Verilog code for each project
-2. Testbenches: Simulation to verify the functionality of the design
+2. Testbenches: Input test stimulus to verify the functionality of the design
 3. Circuit: Describe the logical connectivity for each project
-4. Simulations: Waveforms attached for each project
+4. Simulations: Waveforms/expected output attached for each project
 
 Goals:
 1. Enhance proficiency in Verilog programming
