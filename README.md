@@ -12,10 +12,10 @@ Features:
 3. Circuit: Describe the logical connectivity for each project
 4. Simulations: Waveforms attached for each project
 
-Goals
+Goals:
 1. Enhance proficiency in Verilog programming
 2. Develop a strong foundation in digital logic design
 3. Create a portfolio of RTL projects for future reference and career opportunities
 
-Note
+Note:
 Suggestions and improvements are always welcome! Please reach me out at roshiniuday@gmail.com 
