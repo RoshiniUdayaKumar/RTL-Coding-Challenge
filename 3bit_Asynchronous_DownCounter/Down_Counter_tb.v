@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 
-module Up_Counter_tb();
+module Down_Counter_tb();
 	reg clk,reset;
 	wire [2:0] Q;
 	wire [2:0] Qbar;
 
 //module instantiation 
-Up_Counter dut(clk,reset,Q,Qbar);
+Down_Counter dut(clk,reset,Q,Qbar);
 
 //generating clock
 	initial begin
