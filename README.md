@@ -20,3 +20,49 @@ Goals:
 
 Note:
 Suggestions and improvements are always welcome! Please reach me out at roshiniuday@gmail.com 
+
+RTL Coding Topics covered:
+Logic Gates
+Half Adder
+Full Adder
+Half Subtractor
+Full Subtractor
+Full Adder using Half Adder
+MUX- 2X1, 4X1, 8X1
+DeMux- 1X2
+Decoder
+Decimal to BCD Encoder
+Octal to binary encoder
+Hexadecimal to binary encoder
+priority encoder
+Clock Divider by 2
+Ripple Carry Adder 
+Carry Look ahead Adder
+Flip-Flops- SR, D,T,JK
+Latches- SR,D,T,JK
+SISO
+PIPO
+3-bit asynchronous up-counter 
+"3-bit asynchronous down-counter 
+2-bit synchronous up-counter
+2-bit synchronous down-counter
+3-bit asynchronous up/down counter
+MOD-N counter
+BCD counter
+Ring Counter
+Johnson Counter
+Left shift register
+Right shift register
+Binary to Gray Encoded Converter
+Gray to Binary converter
+Comparator
+Even and odd parity generator
+Even and odd parity checker
+Hamming code Error detection
+ALU
+FIFO- Synchronous
+FIFO-Asynchronous
+How to generate random number less than 100
+How to generate random numbers between 40 and 50
+LUTs
+Memory-RAM/ROM
