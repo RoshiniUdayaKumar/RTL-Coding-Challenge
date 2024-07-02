@@ -29,7 +29,7 @@ RTL Coding Topics covered:
 7. MUX- 2X1, 4X1, 8X1
 8. DeMux- 1X2
 9. Decoder
-10. Decimal to BCD Encoder
+10. Decimal to BCD encoder
 11. Octal to binary encoder
 12. Hexadecimal to binary encoder
 13. Priority encoder
@@ -38,8 +38,8 @@ RTL Coding Topics covered:
 16. Carry Look ahead Adder
 17. Flip-Flops- SR, D,T,JK
 18. Latches- SR,D,T,JK
-19. SISO
-20. PIPO
+19. Serial In Serial Out (SISO)
+20. Parallel In Parallel Out (PIPO)
 21. 3-bit asynchronous up-counter
 22. 3-bit asynchronous down-counter
 23. 2-bit synchronous up-counter
@@ -57,12 +57,12 @@ RTL Coding Topics covered:
 35. Even and odd parity generator
 36. Even and odd parity checker
 37. Hamming code Error detection
-38. ALU
+38. Arithmetic Logic Unit (ALU)
 39. FIFO- Synchronous
 40. FIFO-Asynchronous
 41. How to generate random number less than 100
 42. How to generate random numbers between 40 and 50
-43. LUTs
+43. Look-up Tables (LUTs)
 44. Memory-RAM/ROM
 
 
