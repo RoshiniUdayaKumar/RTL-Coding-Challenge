@@ -22,19 +22,33 @@ Note:
 Suggestions and improvements are always welcome! Please reach me out at roshiniuday@gmail.com 
 
 RTL Coding Topics covered:
+
 Logic Gates
+
 Half Adder
+
 Full Adder
+
 Half Subtractor
+
 Full Subtractor
+
 Full Adder using Half Adder
+
 MUX- 2X1, 4X1, 8X1
+
 DeMux- 1X2
+
 Decoder
+
 Decimal to BCD Encoder
+
 Octal to binary encoder
+
 Hexadecimal to binary encoder
-priority encoder
+
+Priority encoder
+
 Clock Divider by 2
 Ripple Carry Adder 
 Carry Look ahead Adder
