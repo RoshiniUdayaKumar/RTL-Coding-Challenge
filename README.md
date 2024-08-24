@@ -3,22 +3,22 @@
 Welcome to  the 50-Day RTL Coding Challenge!
 This repository contains my journey of designing and implementing various digital circuits and systems using Verilog for 50 days. Each day focuses on a specific topic or project, showcasing different aspects of RTL design and simulation. 
 
-Tools Used: 
+## Tools Used: 
 Xilinx Vivado for design and simulation. 
 Open source like EDA playground can also be used as an alternative for Xilinx Vivado.
 
-Features:
+## Features:
 1. Design: Well-commented Verilog code for each project
 2. Testbenches: Input test stimulus to verify the functionality of the design
 3. Circuit: Describe the logical connectivity for each project
 4. Simulations: Waveforms/expected output attached for each project
 
-Goals:
+## Goals:
 1. Enhance proficiency in Verilog programming
 2. Develop a strong foundation in digital logic design
 3. Create a portfolio of RTL projects for future reference and career opportunities
 
-RTL Coding Topics covered:
+## RTL Coding Topics covered:
 
 1. Logic Gates
 2. Half Adder
@@ -65,6 +65,8 @@ RTL Coding Topics covered:
 43. Look-up Tables (LUTs)
 44. Memory-RAM/ROM
 
+## What i could have done if i had more time 
+Ran synthesis on my RTL code and ensured that the designs met the timing requirements. I would have also studied power requirements for these designs.
 
 Note:
 Suggestions and improvements are always welcome! Please reach me out at roshiniuday@gmail.com 
