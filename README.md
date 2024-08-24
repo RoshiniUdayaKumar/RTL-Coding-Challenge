@@ -1,4 +1,4 @@
-50-Day RTL Coding Challenge
+## 50-Day RTL Coding Challenge
 
 Welcome to  the 50-Day RTL Coding Challenge!
 This repository contains my journey of designing and implementing various digital circuits and systems using Verilog for 50 days. Each day focuses on a specific topic or project, showcasing different aspects of RTL design and simulation. 
