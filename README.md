@@ -13,7 +13,7 @@ Open source like EDA playground can also be used as an alternative for Xilinx Vi
 3. Circuit: Describe the logical connectivity for each project
 4. Simulations: Waveforms/expected output attached for each project
 
-## Goals:
+## Goal:
 1. Enhance proficiency in Verilog programming
 2. Develop a strong foundation in digital logic design
 3. Create a portfolio of RTL projects for future reference and career opportunities
