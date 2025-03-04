@@ -7,8 +7,8 @@ output reg Y;
 //logic for 2X1 Mux
 always @(I0,I1,SL) begin
 if(SL==1'b0)
-Y<=I0;
+Y=I0;
 else
-Y<=I1;
+Y=I1;
 end
 endmodule
