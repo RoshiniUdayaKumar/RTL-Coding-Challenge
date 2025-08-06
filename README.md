@@ -65,6 +65,18 @@ Open source like EDA playground can also be used as an alternative for Xilinx Vi
 43. Look-up Tables (LUTs)
 44. Memory-RAM/ROM
 
+## FSM Coding Topics covered:
+
+This repository consists of FSM designs. I aimed to design two models of FSM- Melay and Moore. Melay machines are those whose outputs depend both on the present input and previous state outputs. Moore machines are those whose output depends solely on the present input. Again, these machines can have non-overlapping or overlapping designs.
+
+45. Sequence Detector using Moore Non-Overlapping method.
+46. Sequence Detector using Moore Overlapping method.
+47. Sequence Detector using Melay Overlapping method.
+48. FSM Secure Car Key
+49. High-Level State Machine (HLMS) of a soda dispenser
+50. FSM of a traffic light controller.
+51. FSM design of an ATM machine.
+
 ## What i could have done if i had more time 
 Ran synthesis on my RTL code and ensured that the designs met the timing requirements. I would have also studied power requirements for these designs.
 
